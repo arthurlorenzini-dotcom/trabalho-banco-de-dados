@@ -1,1 +1,1 @@
-# trabalho-banco-de-dados
+sudo apt update && sudo apt install -y mysql-server# trabalho-banco-de-dados
